@@ -13,7 +13,7 @@
 <strong>
 Kramer is a next level obfuscation tool written in Python3 allowing you to obfuscate
 <br>
-your Python3 code easily and securely. It uses <a href="https://github.com/billythegoat356/Berserker">Berserker</a>'s obfuscation but in a more advanced way
+your Python3 code easily and securely. It uses <a href="https://github.com/LoeveFn/Berserker">Berserker</a>'s obfuscation but in a more advanced way
 <br>
 making your code really hard to be deobfuscated.
 </strong>
